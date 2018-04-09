@@ -1,2 +1,0 @@
-export function selectBook(book) {
-}
