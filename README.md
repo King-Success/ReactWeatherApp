@@ -1,3 +1,2 @@
-# ReactWithReduxApp
-
-A simple react with redux book app
+# ReactWeatherApp
+A weather forcast app, built with react and redux and dependent on a third party api
